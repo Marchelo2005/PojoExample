@@ -21,7 +21,13 @@ Image 1
 
 Image 2
 
+<img src="https://github.com/Marchelo2005/PojoExample/blob/main/img/Captura%20de%20pantalla%202024-07-05%20012851.png" width="35%">
+
+Image 3
+
 <img src="https://github.com/Marchelo2005/PojoExample/blob/main/img/Captura%20de%20pantalla%202024-07-05%20012403.png" width="35%">
+
+
 
 
 - What was our motivation? The motivation for this project was to put into practice what we have learned, as we see the basis of this program with Java code.
